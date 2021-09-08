@@ -1,5 +1,7 @@
 # React TypeScript Todo App
 
+[![codecov](https://codecov.io/gh/sinchang-codespaces/react-typescript-todo-app/branch/master/graph/badge.svg?token=7R2X9CBIW0)](https://codecov.io/gh/sinchang-codespaces/react-typescript-todo-app)
+
 ## About this Repository
 
 This app was created during the React TypeScript Todo App tutorial (link forthcoming). I recommend following along with the tutorial video, but feel free to clone this app directly and explore the code!
